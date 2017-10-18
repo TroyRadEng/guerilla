@@ -8,3 +8,4 @@ Fallow patches of the city made vibrant.
 ## trees
 * average american carbon footprint is around [20 metric tons / year](https://www.sciencedaily.com/releases/2008/04/080428120658.htm)
 * probably [poplar or willow](https://sustainability.stackexchange.com/questions/4328/tree-for-carbon-sequestration-in-temperate-climate?noredirect=1&lq=1) is the best thing to grow
+* probably [just one tree](http://www.slate.com/articles/health_and_science/the_green_lantern/2008/01/the_greenest_tree.html) can wipe out your footprint
